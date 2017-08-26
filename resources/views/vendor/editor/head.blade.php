@@ -42,4 +42,8 @@
     .editor{
         width:{{ config('editor.width') }};
     }
+    .blog-post img{
+        max-width: 800px;
+        max-height: 800px;
+    }
 </style>

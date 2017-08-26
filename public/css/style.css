@@ -58,3 +58,11 @@
     margin-top: 30px;
     z-index: 3;
 }
+.blog-post img{
+    max-width: 835px;
+    max-height: 820px;
+    margin: auto;
+}
+.blog-post{
+    margin: 0 auto;
+}
