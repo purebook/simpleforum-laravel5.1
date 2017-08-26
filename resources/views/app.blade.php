@@ -65,7 +65,7 @@
                         </ul>
                     </li>
                     {{--<li class="active"><a href="/logout">退出登录</a></li>--}}
-                    <li><img src="{{Auth::user()->avatar}}" class="img-circle" width="50" height="50" ></li>
+                    <li><img src="{{Auth::user()->avatar}}" class="img-circle" width="50" height="50" alt="photo"></li>
 
                 @else
                 <li><a href="/user/login">登录</a></li>
