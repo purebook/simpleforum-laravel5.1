@@ -48,6 +48,7 @@ class UsersController extends Controller
 
     public function changeAvatar(Request $request)
     {
+//        dd($request->all());
         $file = $request->file('avatar');
         $input = array('image' => $file);
         $rules = array(

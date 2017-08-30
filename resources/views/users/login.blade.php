@@ -11,7 +11,7 @@
                 </div>
                 <div class="form-group">
                     {!! Form::label('password','密码:') !!}
-                    {!! Form::text('password',null,['class'=>'form-control']) !!}
+                    {!! Form::password('password',['class'=>'form-control']) !!}
                 </div>
 
                 {!! Form::submit('马上登录',['class'=>'btn btn-success form-control']) !!}
