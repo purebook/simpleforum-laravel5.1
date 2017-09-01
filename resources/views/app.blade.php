@@ -5,7 +5,7 @@
     <title>Laravel App</title>
     {{--<link rel="stylesheet" href="/css/bootstrap.css">--}}
     <link href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.css" rel="stylesheet">
-    <link rel="stylesheet" href="/css/font-awesome.css">
+    <link rel="stylesheet" href="/Font-Awesome/css/font-awesome.css">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/jquery.Jcrop.css">
     {{--<script src="/js/jquery-2.1.4.min.js"></script>--}}
